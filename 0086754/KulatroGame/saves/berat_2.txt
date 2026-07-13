@@ -1,0 +1,16 @@
+username=berat
+sessionName=2
+difficulty=Medium
+deckType=Element
+currentRound=1
+totalScore=314
+remainingDiscards=6
+roundDiscards=0
+round1Score=80
+round2Score=0
+round3Score=0
+round4Score=0
+hand=Nitrogen-2;Nitrogen-3;SPECIAL-Electron Bond;Carbon Dioxide-4;SPECIAL-Periodic Boost;Hydrogen-4;
+remainingDeck=Nitrogen-7;Nitrogen-4;Nitrogen-6;Carbon Dioxide-6;SPECIAL-Noble Gas;Carbon Dioxide-8;Oxygen-7;Hydrogen-6;Oxygen-6;Carbon Dioxide-9;Hydrogen-1;Hydrogen-9;Oxygen-3;Hydrogen-7;Hydrogen-3;Carbon Dioxide-5;Nitrogen-8;Carbon Dioxide-7;SPECIAL-Isotope Decay;Nitrogen-1;Carbon Dioxide-1;Oxygen-8;Oxygen-1;Oxygen-2;Oxygen-9;Hydrogen-2;Hydrogen-8;Nitrogen-9;Oxygen-5;Carbon Dioxide-3;
+specialCard=Electron Bond
+specialCardUsed=false

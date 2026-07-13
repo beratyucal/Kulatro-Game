@@ -1,0 +1,4 @@
+PeriodicBoost,Add +2 to the numeric value of all cards in current hand
+NobleGas,Lock one card - cannot be discarded but value counts twice
+IsotopeDecay,Discard entire hand and draw 4 new cards (one-time)
+ElectronBond,Create a pair between two different card types

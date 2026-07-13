@@ -1,0 +1,4 @@
+QuantumEntanglement,Triple the score of one card from the current hand
+Superposition,Play two scoring patterns - take the better result
+GluonBind,Merge two cards into one with combined value (max 9)
+PhotonBurst,Reveal next 3 cards in deck, swap one with a card in hand

@@ -1,0 +1,4 @@
+PhilosophersStone,Doubles the score of the current hand (one-time use)
+Transmutation,Swap one card in hand with a random card from deck
+ElementalFusion,Treat 2+ same type cards as 4 of that type for scoring
+Catalyst,Increases pair multiplier by +1 (x2 becomes x3)

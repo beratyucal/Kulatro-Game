@@ -1,0 +1,16 @@
+username=berat
+sessionName=1
+difficulty=Medium
+deckType=Alchemy
+currentRound=3
+totalScore=234
+remainingDiscards=6
+roundDiscards=0
+round1Score=100
+round2Score=95
+round3Score=39
+round4Score=0
+hand=Fire-1;Air-1;Earth-3;Water-9;
+remainingDeck=Air-8;Earth-1;Air-6;Water-3;Earth-7;SPECIAL-Catalyst;Fire-9;Water-7;Fire-3;Earth-4;Fire-5;Air-4;Air-3;SPECIAL-Transmutation;Earth-6;Fire-8;Air-5;Water-8;Water-5;Air-9;SPECIAL-Elemental Fusion;Earth-8;Water-2;
+specialCard=Philosopher's Stone
+specialCardUsed=true

@@ -1,0 +1,908 @@
+[2026-05-07 21:42:56] LOGIN: berat
+[2026-05-07 21:45:25] LOGIN: berat
+[2026-05-07 21:46:01] LOGIN: berat
+[2026-05-07 21:46:05] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-07 21:46:05] ROUND 1 START - Target Score: 50
+[2026-05-07 21:46:05] INITIAL HAND: Air-5 Air-4 Earth-3 Water-5 
+[2026-05-07 21:46:14] HAND SUBMITTED: [Air-5, Air-4, Earth-3, Water-5] -> Score: 0
+[2026-05-07 21:46:14] ROUND 1 RESULT - Score: 26, Target: 50, LOST
+[2026-05-07 21:46:14] SCORE CHANGE: 0 -> 26
+[2026-05-07 21:46:16] ROUND 2 START - Target Score: 65
+[2026-05-07 21:46:17] INITIAL HAND: Air-7 Fire-1 Earth-2 Earth-7 
+[2026-05-07 21:46:19] HAND SUBMITTED: [Air-7, Fire-1, Earth-2, Earth-7] -> Score: 0
+[2026-05-07 21:46:19] ROUND 2 RESULT - Score: 26, Target: 65, LOST
+[2026-05-07 21:46:19] SCORE CHANGE: 26 -> 52
+[2026-05-07 21:46:21] ROUND 3 START - Target Score: 80
+[2026-05-07 21:46:21] INITIAL HAND: Fire-9 Air-6 Air-3 Water-8 
+[2026-05-07 21:46:24] HAND SUBMITTED: [Fire-9, Air-6, Air-3, Water-8] -> Score: 0
+[2026-05-07 21:46:24] ROUND 3 RESULT - Score: 35, Target: 80, LOST
+[2026-05-07 21:46:24] SCORE CHANGE: 52 -> 87
+[2026-05-07 21:46:25] ROUND 4 START - Target Score: 95
+[2026-05-07 21:46:25] INITIAL HAND: Earth-1 Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Water-2 Earth-4 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Fire-7 
+[2026-05-07 21:46:30] HAND SUBMITTED: [Earth-1, Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)], Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)], Water-2, Earth-4, Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring], Fire-7] -> Score: 0
+[2026-05-07 21:46:30] ROUND 4 RESULT - Score: 19, Target: 95, LOST
+[2026-05-07 21:46:30] SCORE CHANGE: 87 -> 106
+[2026-05-07 21:46:31] GAME COMPLETE - Player: berat, Total Score: 106, LOSS
+[2026-05-07 22:09:23] LOGIN: berat
+[2026-05-07 22:09:28] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-07 22:09:28] ROUND 1 START - Target Score: 50
+[2026-05-07 22:09:28] INITIAL HAND: Air-6 Catalyst [Special: Increases the multiplier of any pair scoring by +1 (x2 becomes x3)] Water-3 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Water-6 Earth-9 
+[2026-05-09 15:51:29] LOGIN: berat
+[2026-05-09 15:51:56] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-09 15:51:56] ROUND 1 START - Target Score: 50
+[2026-05-09 15:51:56] INITIAL HAND: Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Earth-9 Fire-5 Fire-6 Water-6 
+[2026-05-09 16:12:56] LOGIN: berat
+[2026-05-09 16:20:51] LOGIN: berat
+[2026-05-09 16:21:21] LOGIN: berat
+[2026-05-09 16:21:35] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-09 16:21:35] ROUND 1 START - Target Score: 50
+[2026-05-09 16:21:35] INITIAL HAND: Earth-7 Earth-9 Earth-5 Catalyst [Special: Increases the multiplier of any pair scoring by +1 (x2 becomes x3)] Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Fire-9 
+[2026-05-09 16:24:56] LOGIN: berat
+[2026-05-09 16:25:02] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-09 16:25:02] ROUND 1 START - Target Score: 50
+[2026-05-09 16:25:02] INITIAL HAND: Water-5 Earth-4 Air-5 Water-8 
+[2026-05-09 16:27:15] LOGIN: berat
+[2026-05-09 16:27:18] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-09 16:27:18] ROUND 1 START - Target Score: 50
+[2026-05-09 16:27:18] INITIAL HAND: Hand: Earth-8 Fire-4 Fire-1 Water-2 
+[2026-05-09 17:16:44] LOGIN: berat
+[2026-05-09 17:16:48] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-09 17:16:48] ROUND 1 START - Target Score: 50
+[2026-05-09 17:16:48] INITIAL HAND: Hand: Fire-1 Earth-9 Air-9 Earth-2 
+[2026-05-09 17:17:10] ROUND 1 RESULT - Score: 32, Target: 50, LOST
+[2026-05-09 17:17:13] ROUND 2 START - Target Score: 65
+[2026-05-09 17:17:13] INITIAL HAND: Hand: Air-2 Water-7 Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Air-5 Water-2 
+[2026-05-09 17:20:34] LOGIN: berat
+[2026-05-09 17:20:38] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-09 17:20:50] ROUND 1 START - Target Score: 50
+[2026-05-09 17:20:50] INITIAL HAND: Hand: Earth-9 Earth-6 Air-2 Water-8 
+[2026-05-09 17:20:54] SPECIAL CARD USED: Elemental Fusion
+[2026-05-09 17:20:56] SPECIAL CARD USED: Elemental Fusion
+[2026-05-09 17:20:57] SPECIAL CARD USED: Elemental Fusion
+[2026-05-09 17:21:04] DISCARD - Card: Earth-6, Remaining Discards: 5
+[2026-05-09 17:21:12] DISCARD - Card: Air-2, Remaining Discards: 4
+[2026-05-09 17:21:19] ROUND 1 RESULT - Score: 35, Target: 50, LOST
+[2026-05-09 17:21:21] ROUND 2 START - Target Score: 65
+[2026-05-09 17:21:21] INITIAL HAND: Hand: Water-2 Earth-8 Fire-4 Air-6 
+[2026-05-09 17:21:23] SPECIAL CARD USED: Elemental Fusion
+[2026-05-09 17:21:25] ROUND 2 RESULT - Score: 100, Target: 65, WON
+[2026-05-09 17:21:27] ROUND 3 START - Target Score: 80
+[2026-05-09 17:21:27] INITIAL HAND: Hand: Water-6 Fire-8 Fire-1 Earth-7 
+[2026-05-09 17:28:04] LOGIN: berat
+[2026-05-09 17:28:48] LOGIN: berat
+[2026-05-09 18:38:34] LOGIN: berat
+[2026-05-09 18:41:14] LOGIN: berat
+[2026-05-09 18:42:19] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-09 18:42:23] ROUND 1 START - Target Score: 50
+[2026-05-09 18:42:23] INITIAL HAND: Hand: Air-1 Fire-7 Air-5 Fire-6 
+[2026-05-09 18:42:45] DISCARD - Card: Air-1, Remaining Discards: 5
+[2026-05-09 18:42:50] ROUND 1 RESULT - Score: 40, Target: 50, LOST
+[2026-05-09 18:42:57] ROUND 2 START - Target Score: 65
+[2026-05-09 18:42:57] INITIAL HAND: Hand: Air-2 Earth-3 Fire-4 Fire-9 
+[2026-05-09 18:43:03] DISCARD - Card: Air-2, Remaining Discards: 4
+[2026-05-09 18:43:10] DISCARD - Card: Water-1, Remaining Discards: 3
+[2026-05-09 18:43:13] SPECIAL CARD USED: Transmutation
+[2026-05-09 18:43:16] ROUND 2 RESULT - Score: 34, Target: 65, LOST
+[2026-05-09 18:43:17] ROUND 3 START - Target Score: 80
+[2026-05-09 18:43:17] INITIAL HAND: Hand: Fire-2 Air-9 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Fire-8 Earth-6 
+[2026-05-09 18:43:19] ROUND 3 RESULT - Score: 35, Target: 80, LOST
+[2026-05-09 18:43:19] ROUND 4 START - Target Score: 95
+[2026-05-09 18:43:19] INITIAL HAND: Hand: Water-9 Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Water-5 Water-2 Fire-1 
+[2026-05-09 18:47:20] LOGIN: berat
+[2026-05-09 18:48:06] LOGIN: berat
+[2026-05-09 18:50:48] LOGIN: berat
+[2026-05-09 18:53:25] LOGIN: berat
+[2026-05-09 18:55:31] LOGIN: berat
+[2026-05-09 18:57:51] LOGIN: berat
+[2026-05-09 19:02:09] LOGIN: berat
+[2026-05-09 19:05:02] LOGIN: berat
+[2026-05-10 17:45:36] LOGIN: berat
+[2026-05-10 17:50:54] LOGIN: berat
+[2026-05-10 17:55:10] LOGIN: berat
+[2026-05-10 18:02:10] LOGIN: berat
+[2026-05-10 18:05:54] LOGIN: berat
+[2026-05-10 18:19:55] LOGIN: berat
+[2026-05-10 18:31:24] LOGIN: berat
+[2026-05-10 18:59:05] LOGIN: berat
+[2026-05-10 18:59:30] LOGIN: berat
+[2026-05-10 18:59:54] LOGIN: berat
+[2026-05-10 19:00:23] LOGIN: berat
+[2026-05-10 19:13:55] LOGIN: berat
+[2026-05-10 19:14:18] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 19:14:21] ROUND 1 START - Target Score: 50
+[2026-05-10 19:14:21] INITIAL HAND: Hand: Fire-4 Air-8 Water-5 Earth-7 
+[2026-05-10 19:37:55] LOGIN: berat
+[2026-05-10 19:38:00] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 19:38:03] ROUND 1 START - Target Score: 50
+[2026-05-10 19:38:03] INITIAL HAND: Hand: Earth-8 Air-7 Air-6 Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Earth-5 
+[2026-05-10 19:38:56] SPECIAL CARD USED: Transmutation
+[2026-05-10 19:38:57] SPECIAL CARD USED: Transmutation
+[2026-05-10 19:38:57] SPECIAL CARD USED: Transmutation
+[2026-05-10 19:38:58] SPECIAL CARD USED: Transmutation
+[2026-05-10 19:38:58] SPECIAL CARD USED: Transmutation
+[2026-05-10 19:38:59] SPECIAL CARD USED: Transmutation
+[2026-05-10 19:38:59] SPECIAL CARD USED: Transmutation
+[2026-05-10 19:38:59] ROUND 1 RESULT - Score: 35, Target: 50, LOST
+[2026-05-10 19:39:01] ROUND 2 START - Target Score: 65
+[2026-05-10 19:39:01] INITIAL HAND: Hand: Earth-7 Water-6 Fire-6 Air-2 
+[2026-05-10 19:42:03] LOGIN: berat
+[2026-05-10 19:42:06] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 19:42:11] ROUND 1 START - Target Score: 50
+[2026-05-10 19:42:11] INITIAL HAND: Hand: Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Water-9 Air-7 Earth-8 Water-2 
+[2026-05-10 19:43:29] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 19:43:45] ROUND 1 START - Target Score: 50
+[2026-05-10 19:43:45] INITIAL HAND: Hand: Fire-9 Air-4 Fire-2 Water-5 
+[2026-05-10 19:50:02] LOGIN: berat
+[2026-05-10 19:50:09] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 19:50:16] ROUND 1 START - Target Score: 50
+[2026-05-10 19:50:16] INITIAL HAND: Hand: Earth-2 Air-7 Water-2 Air-9 
+[2026-05-10 19:59:56] LOGIN: berat
+[2026-05-10 20:00:02] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 20:00:10] ROUND 1 START - Target Score: 50
+[2026-05-10 20:00:10] INITIAL HAND: Hand: Water-3 Water-2 Fire-8 Earth-3 
+[2026-05-10 20:00:38] ROUND 1 RESULT - Score: 21, Target: 50, LOST
+[2026-05-10 20:00:48] ROUND 2 START - Target Score: 65
+[2026-05-10 20:00:48] INITIAL HAND: Hand: Fire-2 Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Fire-4 Earth-2 Air-6 
+[2026-05-10 20:14:50] LOGIN: berat
+[2026-05-10 20:14:56] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 20:15:00] ROUND 1 START - Target Score: 50
+[2026-05-10 20:15:00] INITIAL HAND: Hand: Earth-2 Air-8 Air-4 Air-2 
+[2026-05-10 21:11:21] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 21:11:29] ROUND 1 START - Target Score: 50
+[2026-05-10 21:11:29] INITIAL HAND: Hand: Earth-9 Water-5 Fire-6 Fire-1 
+[2026-05-10 21:11:38] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-10 21:11:44] ROUND 1 START - Target Score: 50
+[2026-05-10 21:11:44] INITIAL HAND: Hand: Quark-5 Quark-2 Quark-4 Boson-9 
+[2026-05-10 21:11:49] ROUND 1 RESULT - Score: 31, Target: 50, LOST
+[2026-05-10 21:11:54] ROUND 2 START - Target Score: 65
+[2026-05-10 21:11:54] INITIAL HAND: Hand: Boson-4 Gluon-1 Boson-7 Photon-5 
+[2026-05-10 21:11:59] SPECIAL CARD USED: Quantum Entanglement
+[2026-05-10 21:12:02] ROUND 2 RESULT - Score: 28, Target: 65, LOST
+[2026-05-10 21:12:03] ROUND 3 START - Target Score: 80
+[2026-05-10 21:12:03] INITIAL HAND: Hand: Gluon-4 Gluon-5 Photon-8 Photon-7 
+[2026-05-10 21:13:33] GAME START - Player: berat, Deck: Element, Difficulty: Medium
+[2026-05-10 21:13:36] ROUND 1 START - Target Score: 50
+[2026-05-10 21:13:36] INITIAL HAND: Hand: Nitrogen-4 Oxygen-3 Hydrogen-8 Nitrogen-3 
+[2026-05-10 22:15:53] LOGIN: berat
+[2026-05-10 22:16:00] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-10 22:16:03] ROUND 1 START - Target Score: 50
+[2026-05-10 22:16:03] INITIAL HAND: Hand: Air-2 Fire-2 Water-1 Earth-5 
+[2026-05-10 22:16:08] ROUND 1 RESULT - Score: 100, Target: 50, WON
+[2026-05-10 22:16:17] ROUND 2 START - Target Score: 65
+[2026-05-10 22:16:17] INITIAL HAND: Hand: Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Fire-4 Air-7 Water-6 Earth-2 
+[2026-05-10 22:16:20] ROUND 2 RESULT - Score: 95, Target: 65, WON
+[2026-05-10 22:16:21] ROUND 3 START - Target Score: 80
+[2026-05-10 22:16:21] INITIAL HAND: Hand: Water-4 Fire-6 Earth-9 Fire-7 
+[2026-05-10 22:16:22] ROUND 3 RESULT - Score: 39, Target: 80, LOST
+[2026-05-10 22:16:28] ROUND 4 START - Target Score: 95
+[2026-05-10 22:16:28] INITIAL HAND: Hand: Fire-1 Air-1 Earth-3 Water-9 
+[2026-05-10 22:17:00] GAME START - Player: berat, Deck: Element, Difficulty: Medium
+[2026-05-10 22:17:02] ROUND 1 START - Target Score: 50
+[2026-05-10 22:17:02] INITIAL HAND: Hand: Nitrogen-5 Carbon Dioxide-2 Hydrogen-5 Oxygen-4 
+[2026-05-10 22:17:03] ROUND 1 RESULT - Score: 80, Target: 50, WON
+[2026-05-10 22:17:04] ROUND 2 START - Target Score: 65
+[2026-05-10 22:17:04] INITIAL HAND: Hand: Nitrogen-2 Nitrogen-3 Electron Bond [Special: Create a pair between two different card types - they count as a matching pair for scoring] Carbon Dioxide-4 Periodic Boost [Special: Add +2 to the numeric value of all cards in current hand] Hydrogen-4 
+[2026-05-10 22:25:28] LOGIN: berat
+[2026-05-10 22:25:44] ROUND 4 RESULT - Score: 70, Target: 95, LOST
+[2026-05-10 22:25:45] GAME COMPLETE - Player: berat, Total Score: 304, WIN
+[2026-05-10 22:28:15] ROUND 4 RESULT - Score: 70, Target: 95, LOST
+[2026-05-10 22:28:16] GAME COMPLETE - Player: berat, Total Score: 304, WIN
+[2026-05-10 22:28:44] LOGIN: berat
+[2026-05-10 22:28:58] ROUND 4 RESULT - Score: 70, Target: 95, LOST
+[2026-05-10 22:28:59] GAME COMPLETE - Player: berat, Total Score: 304, WIN
+[2026-05-10 22:30:26] LOGIN: berat
+[2026-05-10 22:30:32] ROUND 4 RESULT - Score: 70, Target: 95, LOST
+[2026-05-10 22:30:33] GAME COMPLETE - Player: berat, Total Score: 304, WIN
+[2026-05-11 08:38:32] LOGIN: berat
+[2026-05-11 08:38:41] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-11 08:38:58] ROUND 1 START - Target Score: 50
+[2026-05-11 08:38:58] INITIAL HAND: Hand: Fire-5 Air-7 Fire-3 Water-8 
+[2026-05-11 08:39:01] ROUND 1 RESULT - Score: 31, Target: 50, LOST
+[2026-05-11 08:39:02] ROUND 2 START - Target Score: 65
+[2026-05-11 08:39:02] INITIAL HAND: Hand: Air-3 Fire-1 Fire-4 Earth-8 
+[2026-05-11 08:39:05] SPECIAL CARD USED: Elemental Fusion
+[2026-05-11 08:39:07] ROUND 2 RESULT - Score: 21, Target: 65, LOST
+[2026-05-11 08:39:09] ROUND 3 START - Target Score: 80
+[2026-05-11 08:39:09] INITIAL HAND: Hand: Earth-7 Catalyst [Special: Increases the multiplier of any pair scoring by +1 (x2 becomes x3)] Fire-2 Air-1 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Earth-3 
+[2026-05-11 08:43:33] LOGIN: berat
+[2026-05-11 08:43:41] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-11 08:43:53] ROUND 1 START - Target Score: 50
+[2026-05-11 08:43:53] INITIAL HAND: Hand: Water-7 Water-5 Earth-7 Air-3 
+[2026-05-11 08:44:15] ROUND 1 RESULT - Score: 34, Target: 50, LOST
+[2026-05-11 08:44:16] ROUND 2 START - Target Score: 65
+[2026-05-11 08:44:16] INITIAL HAND: Hand: Earth-4 Earth-1 Earth-6 Earth-2 
+[2026-05-11 08:44:18] ROUND 2 RESULT - Score: 130, Target: 65, WON
+[2026-05-11 08:44:25] ROUND 3 START - Target Score: 80
+[2026-05-11 08:44:25] INITIAL HAND: Hand: Fire-3 Air-2 Fire-1 Water-1 
+[2026-05-11 08:44:50] DISCARD - Card: Water-1, Remaining Discards: 5
+[2026-05-11 08:44:50] DISCARD - Card: Fire-1, Remaining Discards: 4
+[2026-05-11 08:44:56] SPECIAL CARD USED: Transmutation
+[2026-05-11 08:45:01] SPECIAL CARD USED: Transmutation
+[2026-05-11 08:46:42] LOGIN: berat
+[2026-05-11 08:46:49] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-11 08:47:00] ROUND 1 START - Target Score: 50
+[2026-05-11 08:47:00] INITIAL HAND: Hand: Fire-8 Fire-7 Fire-9 Water-8 
+[2026-05-11 08:47:02] ROUND 1 RESULT - Score: 56, Target: 50, WON
+[2026-05-11 08:47:13] ROUND 2 START - Target Score: 65
+[2026-05-11 08:47:13] INITIAL HAND: Hand: Water-2 Air-7 Earth-7 Fire-2 
+[2026-05-11 08:47:31] ROUND 2 RESULT - Score: 90, Target: 65, WON
+[2026-05-11 08:47:38] ROUND 3 START - Target Score: 80
+[2026-05-11 08:47:38] INITIAL HAND: Hand: Earth-6 Air-2 Earth-8 Earth-9 
+[2026-05-11 08:47:40] ROUND 3 RESULT - Score: 48, Target: 80, LOST
+[2026-05-11 08:47:42] ROUND 4 START - Target Score: 95
+[2026-05-11 08:47:42] INITIAL HAND: Hand: Fire-6 Earth-2 Earth-1 Air-8 
+[2026-05-11 08:47:53] SPECIAL CARD USED: Transmutation
+[2026-05-11 08:48:01] SPECIAL CARD USED: Transmutation
+[2026-05-11 08:50:11] LOGIN: berat
+[2026-05-11 08:50:18] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-11 08:50:27] ROUND 1 START - Target Score: 50
+[2026-05-11 08:50:27] INITIAL HAND: Hand: Water-9 Water-8 Water-1 Earth-7 
+[2026-05-11 08:50:29] ROUND 1 RESULT - Score: 86, Target: 50, WON
+[2026-05-11 08:50:31] ROUND 2 START - Target Score: 65
+[2026-05-11 08:50:31] INITIAL HAND: Hand: Air-4 Air-6 Water-2 Earth-3 
+[2026-05-11 08:50:54] DISCARD - Card: Water-2, Remaining Discards: 5
+[2026-05-11 08:51:04] DISCARD - Card: Earth-3, Remaining Discards: 4
+[2026-05-11 08:51:07] ROUND 2 RESULT - Score: 43, Target: 65, LOST
+[2026-05-11 08:51:09] ROUND 3 START - Target Score: 80
+[2026-05-11 08:51:09] INITIAL HAND: Hand: Earth-6 Air-1 Air-2 Air-5 
+[2026-05-11 08:54:01] ROUND 3 RESULT - Score: 22, Target: 80, LOST
+[2026-05-11 08:54:03] ROUND 4 START - Target Score: 95
+[2026-05-11 08:54:03] INITIAL HAND: Hand: Fire-2 Water-7 Air-3 Fire-7 
+[2026-05-11 08:54:05] ROUND 4 RESULT - Score: 28, Target: 95, LOST
+[2026-05-11 08:54:06] GAME COMPLETE - Player: berat, Total Score: 179, LOSS
+[2026-05-11 09:07:32] LOGIN: berat
+[2026-05-11 09:07:36] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-11 09:07:41] ROUND 1 START - Target Score: 50
+[2026-05-11 09:07:42] INITIAL HAND: Hand: Water-2 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Water-3 Air-3 
+[2026-05-11 09:08:15] ROUND 1 RESULT - Score: 13, Target: 50, LOST
+[2026-05-11 09:08:16] ROUND 2 START - Target Score: 65
+[2026-05-11 09:08:16] INITIAL HAND: Hand: Earth-9 Air-2 Fire-2 Earth-7 
+[2026-05-11 09:09:02] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-11 09:09:03] ROUND 1 START - Target Score: 50
+[2026-05-11 09:09:03] INITIAL HAND: Hand: Air-6 Air-5 Water-4 Earth-8 
+[2026-05-11 09:09:20] ROUND 1 RESULT - Score: 34, Target: 50, LOST
+[2026-05-11 09:09:20] ROUND 2 START - Target Score: 65
+[2026-05-11 09:09:20] INITIAL HAND: Hand: Water-2 Fire-6 Air-2 Water-5 
+[2026-05-11 09:09:27] DISCARD - Card: Water-2, Remaining Discards: 5
+[2026-05-11 09:09:34] DISCARD - Card: Fire-4, Remaining Discards: 4
+[2026-05-11 09:09:39] DISCARD - Card: Air-2, Remaining Discards: 3
+[2026-05-11 09:09:39] DISCARD - Card: Fire-6, Remaining Discards: 2
+[2026-05-11 09:09:48] ROUND 2 RESULT - Score: 38, Target: 65, LOST
+[2026-05-11 09:09:50] ROUND 3 START - Target Score: 80
+[2026-05-11 09:09:50] INITIAL HAND: Hand: Earth-7 Air-4 Air-3 Earth-5 
+[2026-05-11 09:09:53] ROUND 3 RESULT - Score: 38, Target: 80, LOST
+[2026-05-11 09:09:54] ROUND 4 START - Target Score: 95
+[2026-05-11 09:09:54] INITIAL HAND: Hand: Fire-3 Water-1 Air-8 Fire-1 
+[2026-05-11 09:10:01] DISCARD - Card: Air-8, Remaining Discards: 1
+[2026-05-11 09:10:04] DISCARD - Card: Fire-3, Remaining Discards: 0
+[2026-05-11 09:10:10] ROUND 4 RESULT - Score: 8, Target: 95, LOST
+[2026-05-11 09:10:11] GAME COMPLETE - Player: berat, Total Score: 131, LOSS
+[2026-05-11 09:51:21] LOGIN: berat
+[2026-05-11 09:51:42] GAME START - Player: berat, Deck: Quantum, Difficulty: Hard
+[2026-05-11 09:51:56] ROUND 1 START - Target Score: 60
+[2026-05-11 09:51:56] INITIAL HAND: Hand: Gluon-1 Gluon-3 Photon-5 Photon-2 
+[2026-05-11 09:52:24] ROUND 1 RESULT - Score: 22, Target: 60, LOST
+[2026-05-11 09:52:29] ROUND 2 START - Target Score: 75
+[2026-05-11 09:52:29] INITIAL HAND: Hand: Photon-4 Photon-1 Boson-7 Quark-9 
+[2026-05-11 09:52:31] ROUND 2 RESULT - Score: 26, Target: 75, LOST
+[2026-05-11 09:52:32] ROUND 3 START - Target Score: 90
+[2026-05-11 09:52:32] INITIAL HAND: Hand: Gluon-6 Boson-9 Photon-7 Photon Burst [Special: Reveal the next 3 cards in deck, you may swap one with a card in hand] 
+[2026-05-11 09:52:34] SPECIAL CARD USED: Superposition
+[2026-05-11 09:52:35] ROUND 3 RESULT - Score: 22, Target: 90, LOST
+[2026-05-11 09:52:36] ROUND 4 START - Target Score: 105
+[2026-05-11 09:52:36] INITIAL HAND: Hand: Quark-7 Photon-6 Photon-8 Quark-4 
+[2026-05-11 09:54:58] LOGIN: berat
+[2026-05-11 14:20:34] LOGIN: berat
+[2026-05-11 14:20:50] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-11 14:21:03] ROUND 1 START - Target Score: 50
+[2026-05-11 14:21:03] INITIAL HAND: Hand: Quark-8 Photon-1 Photon-8 Quark-6 
+[2026-05-13 09:58:05] LOGIN: can
+[2026-05-13 09:58:22] GAME START - Player: can, Deck: Alchemy, Difficulty: Medium
+[2026-05-13 09:58:31] ROUND 1 START - Target Score: 50
+[2026-05-13 09:58:31] INITIAL HAND: Hand: Air-1 Earth-3 Fire-6 Water-4 
+[2026-05-13 09:58:40] ROUND 1 RESULT - Score: 140, Target: 50, WON
+[2026-05-13 09:58:44] ROUND 2 START - Target Score: 65
+[2026-05-13 09:58:44] INITIAL HAND: Hand: Air-9 Water-5 Water-3 Air-8 
+[2026-05-16 20:27:29] LOGIN: berat
+[2026-05-16 20:27:51] GAME START - Player: berat, Deck: Element, Difficulty: Medium
+[2026-05-16 20:27:56] ROUND 1 START - Target Score: 50
+[2026-05-16 20:27:56] INITIAL HAND: Hand: Oxygen-2 Nitrogen-2 Nitrogen-1 Oxygen-4 
+[2026-05-17 14:40:50] LOGIN: berat
+[2026-05-17 14:41:04] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-17 14:41:08] ROUND 1 START - Target Score: 50
+[2026-05-17 14:41:08] INITIAL HAND: Hand: Boson-6 Boson-4 Photon-2 Quark-1 
+[2026-05-17 14:41:28] ROUND 1 RESULT - Score: 23, Target: 50, LOST
+[2026-05-17 14:41:33] ROUND 2 START - Target Score: 65
+[2026-05-17 14:41:33] INITIAL HAND: Hand: Boson-2 Boson-5 Gluon-2 Quark-8 
+[2026-05-17 14:56:03] LOGIN: berat
+[2026-05-17 14:56:13] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 14:56:15] ROUND 1 START - Target Score: 50
+[2026-05-17 14:56:16] INITIAL HAND: Hand: Air-7 Air-6 Earth-7 Air-5 
+[2026-05-17 14:56:36] ROUND 1 RESULT - Score: 86, Target: 50, WON
+[2026-05-17 14:56:37] ROUND 2 START - Target Score: 65
+[2026-05-17 14:56:38] INITIAL HAND: Hand: Fire-7 Air-3 Water-1 Water-5 
+[2026-05-17 15:14:24] LOGIN: berat
+[2026-05-17 15:14:49] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 15:14:55] ROUND 1 START - Target Score: 50
+[2026-05-17 15:14:55] INITIAL HAND: Hand: Earth-2 Fire-4 Fire-9 Fire-8 
+[2026-05-17 15:15:10] ROUND 1 RESULT - Score: 65, Target: 50, WON
+[2026-05-17 15:15:11] ROUND 2 START - Target Score: 65
+[2026-05-17 15:15:11] INITIAL HAND: Hand: Water-5 Earth-6 Air-4 Fire-7 
+[2026-05-17 15:15:19] ROUND 2 RESULT - Score: 110, Target: 65, WON
+[2026-05-17 15:15:20] ROUND 3 START - Target Score: 80
+[2026-05-17 15:15:20] INITIAL HAND: Hand: Water-7 Air-5 Fire-2 Air-8 
+[2026-05-17 15:15:38] DISCARD - Card: Air-5, Remaining Discards: 5
+[2026-05-17 15:16:02] ROUND 3 RESULT - Score: 17, Target: 80, LOST
+[2026-05-17 15:16:04] ROUND 4 START - Target Score: 95
+[2026-05-17 15:16:04] INITIAL HAND: Hand: Fire-6 Earth-8 Earth-5 Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] 
+[2026-05-17 15:16:30] SPECIAL CARD USED: Transmutation
+[2026-05-17 15:16:42] ROUND 4 RESULT - Score: 57, Target: 95, LOST
+[2026-05-17 15:16:43] GAME COMPLETE - Player: berat, Total Score: 249, LOSS
+[2026-05-17 16:55:59] LOGIN: berat
+[2026-05-17 17:07:31] LOGIN: berat
+[2026-05-17 17:35:08] LOGIN: berat
+[2026-05-17 17:35:13] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 17:35:14] ROUND 1 START - Target Score: 50
+[2026-05-17 17:35:15] INITIAL HAND: Hand: Air-6 Fire-9 Earth-6 Water-1 
+[2026-05-17 17:39:03] LOGIN: berat
+[2026-05-17 17:39:08] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 17:39:14] ROUND 1 START - Target Score: 50
+[2026-05-17 17:39:14] INITIAL HAND: Hand: Fire-7 Water-1 Air-3 Fire-9 
+[2026-05-17 17:39:26] DISCARD - Card: Water-1, Remaining Discards: 5
+[2026-05-17 17:57:07] LOGIN: berat
+[2026-05-17 17:57:12] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 17:57:16] ROUND 1 START - Target Score: 50
+[2026-05-17 17:57:16] INITIAL HAND: Hand: Air-1 Water-9 Earth-2 Air-5 
+[2026-05-17 18:07:18] LOGIN: berat
+[2026-05-17 18:07:23] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 18:07:31] ROUND 1 START - Target Score: 50
+[2026-05-17 18:07:31] INITIAL HAND: Hand: Water-8 Air-8 Earth-3 Fire-4 
+[2026-05-17 18:11:39] ROUND 1 RESULT - Score: 230, Target: 50, WON
+[2026-05-17 18:11:40] ROUND 2 START - Target Score: 65
+[2026-05-17 18:11:40] INITIAL HAND: Hand: Earth-1 Fire-6 Earth-8 Earth-9 
+[2026-05-17 18:11:52] DISCARD - Card: Earth-1, Remaining Discards: 5
+[2026-05-17 18:12:15] ROUND 2 RESULT - Score: 44, Target: 65, LOST
+[2026-05-17 18:12:16] ROUND 3 START - Target Score: 80
+[2026-05-17 18:12:16] INITIAL HAND: Hand: Fire-1 Air-2 Earth-6 Fire-7 
+[2026-05-17 18:12:21] DISCARD - Card: Fire-1, Remaining Discards: 4
+[2026-05-17 18:12:24] DISCARD - Card: Fire-3, Remaining Discards: 3
+[2026-05-17 18:12:30] DISCARD - Card: Earth-2, Remaining Discards: 2
+[2026-05-17 18:12:36] ROUND 3 RESULT - Score: 120, Target: 80, WON
+[2026-05-17 18:12:37] ROUND 4 START - Target Score: 95
+[2026-05-17 18:12:37] INITIAL HAND: Hand: Air-6 Air-4 Water-7 Water-3 
+[2026-05-17 18:12:42] ROUND 4 RESULT - Score: 40, Target: 95, LOST
+[2026-05-17 18:12:43] GAME COMPLETE - Player: berat, Total Score: 434, WIN
+[2026-05-17 18:13:12] LOGIN: berat
+[2026-05-17 18:13:20] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 18:13:28] ROUND 1 START - Target Score: 50
+[2026-05-17 18:13:28] INITIAL HAND: Hand: Fire-9 Air-6 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Water-6 
+[2026-05-17 18:17:47] LOGIN: berat
+[2026-05-17 18:18:03] GAME START - Player: berat, Deck: Element, Difficulty: Medium
+[2026-05-17 18:18:22] ROUND 1 START - Target Score: 50
+[2026-05-17 18:18:22] INITIAL HAND: Hand: Oxygen-6 Isotope Decay [Special: Discard your entire hand and draw 4 new cards without using discard limit (one-time)] Hydrogen-1 Nitrogen-4 
+[2026-05-17 19:02:41] LOGIN: berat
+[2026-05-17 19:02:48] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 19:02:58] ROUND 1 START - Target Score: 50
+[2026-05-17 19:02:58] INITIAL HAND: Hand: Fire-4 Earth-3 Earth-6 Fire-6 
+[2026-05-17 19:03:12] ROUND 1 RESULT - Score: 38, Target: 50, LOST
+[2026-05-17 19:03:13] ROUND 2 START - Target Score: 65
+[2026-05-17 19:03:13] INITIAL HAND: Hand: Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Earth-8 Water-2 Fire-2 
+[2026-05-17 19:09:40] LOGIN: berat
+[2026-05-17 19:09:46] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 19:09:54] ROUND 1 START - Target Score: 50
+[2026-05-17 19:09:55] INITIAL HAND: Hand: Earth-4 Earth-3 Fire-6 Water-6 
+[2026-05-17 19:10:08] ROUND 1 RESULT - Score: 26, Target: 50, LOST
+[2026-05-17 19:10:09] ROUND 2 START - Target Score: 65
+[2026-05-17 19:10:09] INITIAL HAND: Hand: Water-3 Air-1 Fire-9 Air-5 
+[2026-05-17 19:10:12] DISCARD - Card: Air-1, Remaining Discards: 5
+[2026-05-17 19:13:21] ROUND 2 RESULT - Score: 36, Target: 65, LOST
+[2026-05-17 19:13:22] ROUND 3 START - Target Score: 80
+[2026-05-17 19:13:22] INITIAL HAND: Hand: Fire-7 Earth-7 Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Fire-1 
+[2026-05-17 19:13:31] DISCARD - Card: Fire-1, Remaining Discards: 4
+[2026-05-17 19:13:39] ROUND 3 RESULT - Score: 39, Target: 80, LOST
+[2026-05-17 19:13:44] ROUND 4 START - Target Score: 95
+[2026-05-17 19:13:44] INITIAL HAND: Hand: Water-2 Air-4 Fire-2 
+[2026-05-17 19:14:00] SPECIAL CARD USED: Transmutation
+[2026-05-17 19:14:06] ROUND 4 RESULT - Score: 8, Target: 95, LOST
+[2026-05-17 19:14:07] GAME COMPLETE - Player: berat, Total Score: 109, LOSS
+[2026-05-17 19:16:47] LOGIN: berat
+[2026-05-17 19:16:53] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 19:16:57] ROUND 1 START - Target Score: 50
+[2026-05-17 19:16:57] INITIAL HAND: Hand: Fire-8 Water-3 Earth-2 Earth-6 
+[2026-05-17 19:17:06] ROUND 1 RESULT - Score: 27, Target: 50, LOST
+[2026-05-17 19:17:07] ROUND 2 START - Target Score: 65
+[2026-05-17 19:17:07] INITIAL HAND: Hand: Fire-2 Earth-4 Fire-7 Fire-3 
+[2026-05-17 19:17:15] DISCARD - Card: Earth-4, Remaining Discards: 5
+[2026-05-17 19:17:19] DISCARD - Card: Water-1, Remaining Discards: 4
+[2026-05-17 19:17:28] DISCARD - Card: Air-8, Remaining Discards: 3
+[2026-05-17 19:39:01] LOGIN: berat
+[2026-05-17 19:39:06] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 19:39:08] ROUND 1 START - Target Score: 50
+[2026-05-17 19:39:08] INITIAL HAND: Hand: Water-3 Earth-7 Air-8 Water-9 
+[2026-05-17 19:47:28] LOGIN: berat
+[2026-05-17 19:47:32] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 19:47:35] ROUND 1 START - Target Score: 50
+[2026-05-17 19:47:36] INITIAL HAND: Hand: Fire-1 Air-2 Fire-8 Earth-4 
+[2026-05-17 19:50:58] LOGIN: hakan
+[2026-05-17 19:51:32] LOGIN: hakan
+[2026-05-17 19:51:45] GAME START - Player: hakan, Deck: Alchemy, Difficulty: Easy
+[2026-05-17 19:51:53] ROUND 1 START - Target Score: 40
+[2026-05-17 19:51:53] INITIAL HAND: Hand: Earth-8 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Fire-5 Water-7 
+[2026-05-17 19:52:33] DISCARD - Card: Fire-5, Remaining Discards: 5
+[2026-05-17 19:52:48] SPECIAL CARD USED: Elemental Fusion
+[2026-05-17 19:52:53] ROUND 1 RESULT - Score: 50, Target: 40, WON
+[2026-05-17 19:53:12] ROUND 2 START - Target Score: 55
+[2026-05-17 19:53:12] INITIAL HAND: Hand: Fire-7 Air-5 Fire-9 
+[2026-05-17 19:54:06] ROUND 2 RESULT - Score: 37, Target: 55, LOST
+[2026-05-17 19:54:10] ROUND 3 START - Target Score: 70
+[2026-05-17 19:54:10] INITIAL HAND: Hand: Water-4 Air-8 Air-4 
+[2026-05-17 19:54:16] DISCARD - Card: Water-4, Remaining Discards: 4
+[2026-05-17 19:54:19] DISCARD - Card: Water-5, Remaining Discards: 3
+[2026-05-17 19:54:27] SPECIAL CARD USED: Catalyst
+[2026-05-17 19:54:30] ROUND 3 RESULT - Score: 24, Target: 70, LOST
+[2026-05-17 19:54:36] ROUND 4 START - Target Score: 85
+[2026-05-17 19:54:36] INITIAL HAND: Hand: Air-9 Air-6 
+[2026-05-17 21:06:47] LOGIN: berat
+[2026-05-17 21:06:52] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-17 21:06:54] ROUND 1 START - Target Score: 50
+[2026-05-17 21:06:54] INITIAL HAND: Hand: Fire-1 Air-2 Earth-6 Earth-7 
+[2026-05-18 14:28:05] LOGIN: erkin
+[2026-05-18 14:29:03] GAME START - Player: erkin, Deck: Alchemy, Difficulty: Easy
+[2026-05-18 14:29:17] ROUND 1 START - Target Score: 40
+[2026-05-18 14:29:17] INITIAL HAND: Hand: Air-6 Earth-7 Air-5 Earth-9 
+[2026-05-18 14:30:04] ROUND 1 RESULT - Score: 81, Target: 40, WON
+[2026-05-18 14:30:05] ROUND 2 START - Target Score: 55
+[2026-05-18 14:30:05] INITIAL HAND: Hand: Air-9 Fire-7 Fire-2 Fire-8 
+[2026-05-18 14:30:32] ROUND 2 RESULT - Score: 60, Target: 55, WON
+[2026-05-18 14:30:33] ROUND 3 START - Target Score: 70
+[2026-05-18 14:30:33] INITIAL HAND: Hand: Earth-5 Fire-4 Air-2 Fire-5 
+[2026-05-18 14:30:49] ROUND 3 RESULT - Score: 34, Target: 70, LOST
+[2026-05-18 14:30:55] ROUND 4 START - Target Score: 85
+[2026-05-18 14:30:55] INITIAL HAND: Hand: Fire-1 Water-7 Water-4 Water-2 
+[2026-05-18 14:31:01] DISCARD - Card: Water-2, Remaining Discards: 5
+[2026-05-18 14:31:05] DISCARD - Card: Fire-1, Remaining Discards: 4
+[2026-05-18 14:31:09] DISCARD - Card: Water-4, Remaining Discards: 3
+[2026-05-18 14:31:19] ROUND 4 RESULT - Score: 55, Target: 85, LOST
+[2026-05-18 14:31:21] GAME COMPLETE - Player: erkin, Total Score: 230, LOSS
+[2026-05-18 15:03:37] LOGIN: berat
+[2026-05-18 15:31:08] LOGIN: giris
+[2026-05-18 15:31:29] GAME START - Player: giris, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 15:31:51] ROUND 1 START - Target Score: 50
+[2026-05-18 15:31:51] INITIAL HAND: Hand: Water-6 Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Earth-6 Air-8 
+[2026-05-18 15:35:09] SPECIAL CARD USED: Transmutation
+[2026-05-18 15:35:25] ROUND 1 RESULT - Score: 72, Target: 50, WON
+[2026-05-18 15:35:27] ROUND 2 START - Target Score: 65
+[2026-05-18 15:35:27] INITIAL HAND: Hand: Air-9 Earth-9 Water-3 Air-4 
+[2026-05-18 15:36:29] LOGIN: ceren
+[2026-05-18 15:36:37] GAME START - Player: ceren, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 15:36:51] ROUND 1 START - Target Score: 50
+[2026-05-18 15:36:51] INITIAL HAND: Hand: Air-7 Fire-6 Earth-7 Earth-3 
+[2026-05-18 15:42:30] GAME START - Player: ceren, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 15:42:31] ROUND 1 START - Target Score: 50
+[2026-05-18 15:42:31] INITIAL HAND: Hand: Fire-2 Fire-5 Water-1 Air-3 
+[2026-05-18 15:42:38] ROUND 1 RESULT - Score: 36, Target: 50, LOST
+[2026-05-18 15:42:39] ROUND 2 START - Target Score: 65
+[2026-05-18 15:42:39] INITIAL HAND: Hand: Water-2 Water-5 Air-9 Earth-2 
+[2026-05-18 15:42:47] ROUND 2 RESULT - Score: 9, Target: 65, LOST
+[2026-05-18 15:42:49] ROUND 3 START - Target Score: 80
+[2026-05-18 15:42:49] INITIAL HAND: Hand: Fire-3 
+[2026-05-18 15:42:52] DISCARD - Card: Fire-3, Remaining Discards: 5
+[2026-05-18 16:24:32] LOGIN: berat
+[2026-05-18 16:24:36] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 16:24:40] ROUND 1 START - Target Score: 50
+[2026-05-18 16:24:40] INITIAL HAND: Hand: Water-8 Air-7 Earth-7 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] 
+[2026-05-18 16:27:54] LOGIN: berat
+[2026-05-18 16:27:59] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 16:28:01] ROUND 1 START - Target Score: 50
+[2026-05-18 16:28:01] INITIAL HAND: Hand: Earth-9 Earth-1 Fire-6 Earth-3 
+[2026-05-18 16:28:16] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:17] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:20] ROUND 1 RESULT - Score: 36, Target: 50, LOST
+[2026-05-18 16:28:21] ROUND 2 START - Target Score: 65
+[2026-05-18 16:28:21] INITIAL HAND: Hand: Water-7 Water-2 Water-6 Fire-2 
+[2026-05-18 16:28:26] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:27] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:27] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:33] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:34] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:36] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:37] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:38] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:38] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:38] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:39] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:39] SPECIAL CARD USED: Catalyst
+[2026-05-18 16:28:45] ROUND 2 RESULT - Score: 41, Target: 65, LOST
+[2026-05-18 16:28:48] ROUND 3 START - Target Score: 80
+[2026-05-18 16:28:48] INITIAL HAND: Hand: Water-8 Water-3 Earth-2 Air-9 
+[2026-05-18 16:35:04] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 16:35:12] ROUND 1 START - Target Score: 50
+[2026-05-18 16:35:12] INITIAL HAND: Hand: Earth-3 Fire-7 Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Water-2 
+[2026-05-18 16:35:23] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 16:35:46] ROUND 1 START - Target Score: 50
+[2026-05-18 16:35:46] INITIAL HAND: Hand: Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Fire-3 Fire-1 Water-2 
+[2026-05-18 16:36:09] SPECIAL CARD USED: Elemental Fusion
+[2026-05-18 16:36:10] ROUND 1 RESULT - Score: 20, Target: 50, LOST
+[2026-05-18 16:36:11] ROUND 2 START - Target Score: 65
+[2026-05-18 16:36:11] INITIAL HAND: Hand: Water-9 Air-7 Air-2 Water-5 
+[2026-05-18 16:43:44] LOGIN: berat
+[2026-05-18 16:43:50] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 16:43:54] ROUND 1 START - Target Score: 50
+[2026-05-18 16:43:54] INITIAL HAND: Hand: Fire-3 Water-5 Water-4 Earth-5 
+[2026-05-18 16:44:12] ROUND 1 RESULT - Score: 26, Target: 50, LOST
+[2026-05-18 16:44:13] ROUND 2 START - Target Score: 65
+[2026-05-18 16:44:13] INITIAL HAND: Hand: Earth-8 Fire-6 Fire-9 Earth-9 
+[2026-05-18 16:44:17] SPECIAL CARD USED: Philosopher's Stone
+[2026-05-18 16:44:28] ROUND 2 RESULT - Score: 128, Target: 65, WON
+[2026-05-18 16:44:29] ROUND 3 START - Target Score: 80
+[2026-05-18 16:44:29] INITIAL HAND: Hand: Air-7 Air-1 Air-5 Water-6 
+[2026-05-18 16:44:34] ROUND 3 RESULT - Score: 60, Target: 80, LOST
+[2026-05-18 16:44:35] ROUND 4 START - Target Score: 95
+[2026-05-18 16:44:35] INITIAL HAND: Hand: Water-9 Earth-6 Elemental Fusion [Special: If you have at least 2 cards of the same type, treat them as 4 of that type for scoring] Air-8 
+[2026-05-18 16:44:41] DISCARD - Card: Earth-6, Remaining Discards: 5
+[2026-05-18 16:44:45] DISCARD - Card: Water-3, Remaining Discards: 4
+[2026-05-18 16:44:47] DISCARD - Card: Earth-4, Remaining Discards: 3
+[2026-05-18 16:44:48] DISCARD - Card: Earth-1, Remaining Discards: 2
+[2026-05-18 16:45:01] ROUND 4 RESULT - Score: 40, Target: 95, LOST
+[2026-05-18 16:45:02] GAME COMPLETE - Player: berat, Total Score: 140, LOSS
+[2026-05-18 16:46:59] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-18 16:47:14] ROUND 1 START - Target Score: 50
+[2026-05-18 16:47:14] INITIAL HAND: Hand: Gluon-5 Photon Burst [Special: Reveal the next 3 cards in deck, you may swap one with a card in hand] Boson-6 Boson-7 
+[2026-05-18 16:47:30] SPECIAL CARD USED: Photon Burst
+[2026-05-18 16:47:34] ROUND 1 RESULT - Score: 31, Target: 50, LOST
+[2026-05-18 16:47:37] ROUND 2 START - Target Score: 65
+[2026-05-18 16:47:38] INITIAL HAND: Hand: Photon-1 Photon-5 Gluon-4 Quark-5 
+[2026-05-18 16:55:34] LOGIN: berat
+[2026-05-18 16:55:44] GAME START - Player: berat, Deck: Quantum, Difficulty: Easy
+[2026-05-18 16:55:47] ROUND 1 START - Target Score: 40
+[2026-05-18 16:55:47] INITIAL HAND: Hand: Photon-7 Gluon-8 Photon-3 Boson-4 
+[2026-05-18 16:55:59] SPECIAL CARD USED: Photon Burst
+[2026-05-18 17:04:30] LOGIN: berat
+[2026-05-18 17:04:34] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 17:04:42] ROUND 1 START - Target Score: 50
+[2026-05-18 17:04:42] INITIAL HAND: Hand: Water-4 Earth-1 Fire-7 Earth-9 
+[2026-05-18 17:04:55] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-18 17:04:59] ROUND 1 START - Target Score: 50
+[2026-05-18 17:04:59] INITIAL HAND: Hand: Boson-2 Gluon-2 Gluon-1 Gluon-9 
+[2026-05-18 17:05:06] SPECIAL CARD USED: Photon Burst
+[2026-05-18 17:05:11] SPECIAL CARD USED: Photon Burst
+[2026-05-18 17:05:13] SPECIAL CARD USED: Photon Burst
+[2026-05-18 17:05:22] SPECIAL CARD USED: Photon Burst
+[2026-05-18 17:05:33] DISCARD - Card: Gluon-1, Remaining Discards: 5
+[2026-05-18 17:05:41] SPECIAL CARD USED: Superposition
+[2026-05-18 17:05:43] ROUND 1 RESULT - Score: 24, Target: 50, LOST
+[2026-05-18 17:05:44] ROUND 2 START - Target Score: 65
+[2026-05-18 17:05:44] INITIAL HAND: Hand: Gluon-7 Boson-8 Boson-5 Boson-9 
+[2026-05-18 17:06:16] ROUND 2 RESULT - Score: 41, Target: 65, LOST
+[2026-05-18 17:06:17] ROUND 3 START - Target Score: 80
+[2026-05-18 17:06:17] INITIAL HAND: Hand: Boson-3 Quark-7 Photon-8 Quark-6 
+[2026-05-18 17:13:14] LOGIN: berat
+[2026-05-18 17:13:19] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-18 17:13:26] ROUND 1 START - Target Score: 50
+[2026-05-18 17:13:26] INITIAL HAND: Hand: Boson-3 Gluon-5 Gluon-2 Photon-9 
+[2026-05-18 17:13:33] SPECIAL CARD USED: Superposition
+[2026-05-18 17:13:37] ROUND 1 RESULT - Score: 26, Target: 50, LOST
+[2026-05-18 17:13:39] ROUND 2 START - Target Score: 65
+[2026-05-18 17:13:39] INITIAL HAND: Hand: Quantum Entanglement [Special: Triple the score of one card from the current hand] Quark-8 Photon-3 Quark-2 
+[2026-05-18 17:13:51] SPECIAL CARD USED: Quantum Entanglement
+[2026-05-18 17:13:54] ROUND 2 RESULT - Score: 23, Target: 65, LOST
+[2026-05-18 17:14:05] ROUND 3 START - Target Score: 80
+[2026-05-18 17:14:05] INITIAL HAND: Hand: Quark-1 Quark-7 Photon-5 Boson-1 
+[2026-05-18 17:14:29] ROUND 3 RESULT - Score: 22, Target: 80, LOST
+[2026-05-18 17:14:30] ROUND 4 START - Target Score: 95
+[2026-05-18 17:14:30] INITIAL HAND: Hand: Photon-8 Boson-4 Quark-5 Boson-2 
+[2026-05-18 17:14:35] ROUND 4 RESULT - Score: 25, Target: 95, LOST
+[2026-05-18 17:14:35] GAME COMPLETE - Player: berat, Total Score: 96, LOSS
+[2026-05-18 17:14:53] GAME START - Player: berat, Deck: Quantum, Difficulty: Easy
+[2026-05-18 17:15:01] ROUND 1 START - Target Score: 40
+[2026-05-18 17:15:01] INITIAL HAND: Hand: Photon-5 Boson-1 Photon-4 Quark-2 
+[2026-05-18 17:15:08] SPECIAL CARD USED: Superposition
+[2026-05-18 17:15:33] GAME START - Player: berat, Deck: Alchemy, Difficulty: Easy
+[2026-05-18 17:15:45] ROUND 1 START - Target Score: 40
+[2026-05-18 17:15:45] INITIAL HAND: Hand: Earth-2 Earth-1 Water-7 Earth-3 
+[2026-05-18 17:15:59] GAME START - Player: berat, Deck: Quantum, Difficulty: Easy
+[2026-05-18 17:16:03] ROUND 1 START - Target Score: 40
+[2026-05-18 17:16:03] INITIAL HAND: Hand: Gluon-5 Photon-1 Gluon-2 Photon-3 
+[2026-05-18 17:16:14] SPECIAL CARD USED: Superposition
+[2026-05-18 17:16:20] ROUND 1 RESULT - Score: 22, Target: 40, LOST
+[2026-05-18 17:16:21] ROUND 2 START - Target Score: 55
+[2026-05-18 17:16:21] INITIAL HAND: Hand: Quark-3 Boson-7 Gluon-6 Photon-9 
+[2026-05-18 17:18:55] LOGIN: berat
+[2026-05-18 17:19:00] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 17:19:02] ROUND 1 START - Target Score: 50
+[2026-05-18 17:19:02] INITIAL HAND: Hand: Fire-5 Earth-2 Air-8 Air-2 
+[2026-05-18 17:25:28] LOGIN: berat
+[2026-05-18 17:25:35] GAME START - Player: berat, Deck: Quantum, Difficulty: Easy
+[2026-05-18 17:25:48] ROUND 1 START - Target Score: 40
+[2026-05-18 17:25:48] INITIAL HAND: Hand: Photon-7 Gluon-2 Photon-4 Photon-6 
+[2026-05-18 17:29:06] ROUND 1 RESULT - Score: 36, Target: 40, LOST
+[2026-05-18 17:29:08] ROUND 2 START - Target Score: 55
+[2026-05-18 17:29:08] INITIAL HAND: Hand: Boson-5 Gluon-8 Quark-6 Gluon-5 
+[2026-05-18 17:29:20] SPECIAL CARD USED: Superposition
+[2026-05-18 17:29:28] DISCARD - Card: Gluon-5, Remaining Discards: 5
+[2026-05-18 17:34:36] SPECIAL CARD USED: Superposition
+[2026-05-18 17:36:02] LOGIN: berat
+[2026-05-18 17:36:10] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-18 17:36:32] ROUND 1 START - Target Score: 50
+[2026-05-18 17:36:32] INITIAL HAND: Hand: Quark-8 Boson-2 Quark-9 Gluon-5 
+[2026-05-18 17:36:41] SPECIAL CARD USED: Superposition
+[2026-05-18 17:36:44] ROUND 1 RESULT - Score: 41, Target: 50, LOST
+[2026-05-18 17:36:45] ROUND 2 START - Target Score: 65
+[2026-05-18 17:36:45] INITIAL HAND: Hand: Photon-2 Quark-7 Boson-9 Boson-4 
+[2026-05-18 17:36:55] SPECIAL CARD USED: Superposition
+[2026-05-18 17:36:56] ROUND 2 RESULT - Score: 35, Target: 65, LOST
+[2026-05-18 17:36:57] ROUND 3 START - Target Score: 80
+[2026-05-18 17:36:57] INITIAL HAND: Hand: Photon-7 Gluon-3 Boson-6 Quark-1 
+[2026-05-18 17:37:02] SPECIAL CARD USED: Superposition
+[2026-05-18 17:37:07] SPECIAL CARD USED: Superposition
+[2026-05-18 17:39:14] GAME START - Player: berat, Deck: Quantum, Difficulty: Easy
+[2026-05-18 17:39:16] ROUND 1 START - Target Score: 40
+[2026-05-18 17:39:16] INITIAL HAND: Hand: Photon-4 Gluon-3 Quark-9 Gluon-8 
+[2026-05-18 17:39:46] GAME START - Player: berat, Deck: Quantum, Difficulty: Easy
+[2026-05-18 17:40:05] ROUND 1 START - Target Score: 40
+[2026-05-18 17:40:05] INITIAL HAND: Hand: Gluon-7 Gluon-9 Gluon-5 Photon-3 
+[2026-05-18 17:40:29] LOGIN: kaan
+[2026-05-18 17:40:43] GAME START - Player: kaan, Deck: Quantum, Difficulty: Medium
+[2026-05-18 17:40:47] ROUND 1 START - Target Score: 50
+[2026-05-18 17:40:47] INITIAL HAND: Hand: Quark-3 Gluon-3 Photon-8 Gluon-7 
+[2026-05-18 17:41:10] SPECIAL CARD USED: Superposition
+[2026-05-18 17:50:39] LOGIN: berat
+[2026-05-18 17:50:46] LOGIN: kaan
+[2026-05-18 17:50:54] GAME START - Player: kaan, Deck: Quantum, Difficulty: Easy
+[2026-05-18 17:50:58] ROUND 1 START - Target Score: 40
+[2026-05-18 17:50:58] INITIAL HAND: Hand: Boson-3 Photon-5 Photon-9 Photon-4 
+[2026-05-18 17:51:12] SPECIAL CARD USED: Superposition
+[2026-05-18 17:51:18] SPECIAL CARD USED: Superposition
+[2026-05-18 17:54:04] SPECIAL CARD USED: Superposition
+[2026-05-18 17:54:16] ROUND 1 RESULT - Score: 39, Target: 40, LOST
+[2026-05-18 17:54:17] ROUND 2 START - Target Score: 55
+[2026-05-18 17:54:17] INITIAL HAND: Hand: Gluon-8 Boson-4 Quantum Entanglement [Special: Triple the score of one card from the current hand] Quark-1 
+[2026-05-18 17:54:25] SPECIAL CARD USED: Superposition
+[2026-05-18 17:59:47] SPECIAL CARD USED: Superposition
+[2026-05-18 17:59:56] SPECIAL CARD USED: Quantum Entanglement
+[2026-05-18 17:59:57] ROUND 2 RESULT - Score: 13, Target: 55, LOST
+[2026-05-18 18:00:07] ROUND 3 START - Target Score: 70
+[2026-05-18 18:00:07] INITIAL HAND: Hand: Quark-5 Photon-2 Gluon-7 Gluon-3 
+[2026-05-18 18:00:48] LOGIN: berat
+[2026-05-18 18:00:57] GAME START - Player: berat, Deck: Quantum, Difficulty: Easy
+[2026-05-18 18:01:03] ROUND 1 START - Target Score: 40
+[2026-05-18 18:01:03] INITIAL HAND: Hand: Quark-4 Boson-8 Photon-8 Quark-2 
+[2026-05-18 18:03:07] SPECIAL CARD USED: Quantum Entanglement
+[2026-05-18 18:03:12] ROUND 1 RESULT - Score: 28, Target: 40, LOST
+[2026-05-18 18:03:30] ROUND 2 START - Target Score: 55
+[2026-05-18 18:03:30] INITIAL HAND: Hand: Quark-8 Photon-9 Gluon Bind [Special: Merge two cards into one with combined numeric value (max 9), draw one card in its place] Photon-5 
+[2026-05-18 18:03:43] SPECIAL CARD USED: Gluon Bind
+[2026-05-18 18:03:51] ROUND 2 RESULT - Score: 54, Target: 55, LOST
+[2026-05-18 18:03:54] ROUND 3 START - Target Score: 70
+[2026-05-18 18:03:54] INITIAL HAND: Hand: Gluon-5 Superposition [Special: Calculates the hand using all valid scoring patterns and takes the highest score] Boson-4 Quark-5 
+[2026-05-18 18:04:51] LOGIN: kaan
+[2026-05-18 18:04:58] GAME START - Player: kaan, Deck: Quantum, Difficulty: Medium
+[2026-05-18 18:05:19] ROUND 1 START - Target Score: 50
+[2026-05-18 18:05:19] INITIAL HAND: Hand: Gluon-6 Gluon Bind [Special: Merge two cards into one with combined numeric value (max 9), draw one card in its place] Boson-9 Photon-8 
+[2026-05-18 18:05:25] SPECIAL CARD USED: Superposition
+[2026-05-18 18:05:30] SPECIAL CARD USED: Superposition
+[2026-05-18 18:05:53] SPECIAL CARD USED: Gluon Bind
+[2026-05-18 18:05:54] ROUND 1 RESULT - Score: 47, Target: 50, LOST
+[2026-05-18 18:05:58] ROUND 2 START - Target Score: 65
+[2026-05-18 18:05:58] INITIAL HAND: Hand: Boson-5 Gluon-4 Boson-3 Quantum Entanglement [Special: Triple the score of one card from the current hand] 
+[2026-05-18 18:06:01] SPECIAL CARD USED: Superposition
+[2026-05-18 18:06:17] SPECIAL CARD USED: Quantum Entanglement
+[2026-05-18 18:06:25] ROUND 2 RESULT - Score: 20, Target: 65, LOST
+[2026-05-18 18:06:58] ROUND 3 START - Target Score: 80
+[2026-05-18 18:06:58] INITIAL HAND: Hand: Quark-9 Quark-5 Photon-9 Gluon-3 
+[2026-05-18 18:15:25] ROUND 3 RESULT - Score: 40, Target: 80, LOST
+[2026-05-18 18:15:27] ROUND 4 START - Target Score: 95
+[2026-05-18 18:15:27] INITIAL HAND: Hand: Gluon-2 Gluon-9 Quark-4 Gluon-5 
+[2026-05-18 18:32:21] LOGIN: kaan
+[2026-05-18 18:32:32] GAME START - Player: kaan, Deck: Quantum, Difficulty: Medium
+[2026-05-18 18:32:44] ROUND 1 START - Target Score: 50
+[2026-05-18 18:32:44] INITIAL HAND: Hand: Quark-9 Photon Burst [Special: Reveal the next 3 cards in deck, you may swap one with a card in hand] Quark-6 Boson-3 
+[2026-05-18 18:33:55] SPECIAL CARD USED: Superposition
+[2026-05-18 18:34:05] SPECIAL CARD USED: Photon Burst
+[2026-05-18 18:34:08] ROUND 1 RESULT - Score: 33, Target: 50, LOST
+[2026-05-18 18:34:11] ROUND 2 START - Target Score: 65
+[2026-05-18 18:34:11] INITIAL HAND: Hand: Boson-6 Quark-7 Photon-9 Boson-4 
+[2026-05-18 18:34:16] ROUND 2 RESULT - Score: 36, Target: 65, LOST
+[2026-05-18 18:34:16] ROUND 3 START - Target Score: 80
+[2026-05-18 18:34:16] INITIAL HAND: Hand: Gluon-9 Gluon-5 Photon-7 Gluon-2 
+[2026-05-18 18:34:19] DISCARD - Card: Gluon-2, Remaining Discards: 5
+[2026-05-18 18:34:21] DISCARD - Card: Photon-7, Remaining Discards: 4
+[2026-05-18 18:34:23] DISCARD - Card: Photon-2, Remaining Discards: 3
+[2026-05-18 18:34:25] DISCARD - Card: Quark-2, Remaining Discards: 2
+[2026-05-18 18:34:54] SPECIAL CARD USED: Quantum Entanglement
+[2026-05-18 18:35:17] ROUND 3 RESULT - Score: 28, Target: 80, LOST
+[2026-05-18 18:38:02] ROUND 4 START - Target Score: 95
+[2026-05-18 18:38:02] INITIAL HAND: Hand: Gluon-6 Boson-7 Photon-5 Quark-1 
+[2026-05-18 18:45:34] LOGIN: kaan
+[2026-05-18 18:45:46] GAME START - Player: kaan, Deck: Quantum, Difficulty: Easy
+[2026-05-18 18:46:09] ROUND 1 START - Target Score: 40
+[2026-05-18 18:46:09] INITIAL HAND: Hand: Gluon-4 Gluon-8 Boson-5 Boson-1 
+[2026-05-18 18:46:26] ROUND 1 RESULT - Score: 36, Target: 40, LOST
+[2026-05-18 18:46:27] ROUND 2 START - Target Score: 55
+[2026-05-18 18:46:27] INITIAL HAND: Hand: Gluon-9 Quark-9 Photon Burst [Special: Reveal the next 3 cards in deck, you may swap one with a card in hand] Gluon-1 
+[2026-05-18 18:47:04] SPECIAL CARD USED: Photon Burst
+[2026-05-18 18:47:19] SPECIAL CARD USED: Superposition
+[2026-05-18 18:47:20] ROUND 2 RESULT - Score: 39, Target: 55, LOST
+[2026-05-18 18:47:21] ROUND 3 START - Target Score: 70
+[2026-05-18 18:47:21] INITIAL HAND: Hand: Boson-4 Quark-3 Gluon-3 Photon-3 
+[2026-05-18 18:47:38] SPECIAL CARD USED: Superposition
+[2026-05-18 18:48:14] SPECIAL CARD USED: Superposition
+[2026-05-18 18:48:16] ROUND 3 RESULT - Score: 65, Target: 70, LOST
+[2026-05-18 18:48:17] ROUND 4 START - Target Score: 85
+[2026-05-18 18:48:17] INITIAL HAND: Hand: Photon-2 Quark-6 Gluon-5 Gluon Bind [Special: Merge two cards into one with combined numeric value (max 9), draw one card in its place] 
+[2026-05-18 18:48:36] SPECIAL CARD USED: Gluon Bind
+[2026-05-18 18:48:43] ROUND 4 RESULT - Score: 14, Target: 85, LOST
+[2026-05-18 18:49:12] GAME COMPLETE - Player: kaan, Total Score: 154, LOSS
+[2026-05-18 18:49:34] GAME START - Player: kaan, Deck: Alchemy, Difficulty: Easy
+[2026-05-18 18:49:44] ROUND 1 START - Target Score: 40
+[2026-05-18 18:49:44] INITIAL HAND: Hand: Fire-2 Water-9 Fire-6 Air-4 
+[2026-05-18 19:46:08] LOGIN: kaan
+[2026-05-18 19:46:22] GAME START - Player: kaan, Deck: Alchemy, Difficulty: Easy
+[2026-05-18 19:46:29] ROUND 1 START - Target Score: 40
+[2026-05-18 19:46:29] INITIAL HAND: Hand: Water-9 Fire-2 Earth-5 Earth-4 
+[2026-05-18 19:46:36] ROUND 1 RESULT - Score: 29, Target: 40, LOST
+[2026-05-18 19:46:42] ROUND 2 START - Target Score: 55
+[2026-05-18 19:46:42] INITIAL HAND: Hand: Fire-1 Air-1 Fire-6 Earth-7 
+[2026-05-18 19:46:46] DISCARD - Card: Air-1, Remaining Discards: 5
+[2026-05-18 19:46:50] DISCARD - Card: Fire-1, Remaining Discards: 4
+[2026-05-18 19:47:01] DISCARD - Card: Air-2, Remaining Discards: 3
+[2026-05-18 19:47:05] SPECIAL CARD USED: Elemental Fusion
+[2026-05-18 19:47:11] SPECIAL CARD USED: Philosopher's Stone
+[2026-05-18 19:47:13] ROUND 2 RESULT - Score: 54, Target: 55, LOST
+[2026-05-18 19:47:34] ROUND 3 START - Target Score: 70
+[2026-05-18 19:47:34] INITIAL HAND: Hand: Water-2 Water-4 Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Water-6 
+[2026-05-18 19:48:09] SPECIAL CARD USED: Transmutation
+[2026-05-18 19:48:28] ROUND 3 RESULT - Score: 26, Target: 70, LOST
+[2026-05-18 19:48:29] ROUND 4 START - Target Score: 85
+[2026-05-18 19:48:29] INITIAL HAND: Hand: Earth-6 Earth-9 Earth-8 Fire-8 
+[2026-05-18 19:48:35] DISCARD - Card: Earth-6, Remaining Discards: 2
+[2026-05-18 19:48:38] DISCARD - Card: Fire-8, Remaining Discards: 1
+[2026-05-18 19:48:48] SPECIAL CARD USED: Catalyst
+[2026-05-18 19:48:49] ROUND 4 RESULT - Score: 60, Target: 85, LOST
+[2026-05-18 19:48:58] GAME COMPLETE - Player: kaan, Total Score: 169, LOSS
+[2026-05-18 19:49:16] GAME START - Player: kaan, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 19:49:18] ROUND 1 START - Target Score: 50
+[2026-05-18 19:49:18] INITIAL HAND: Hand: Water-1 Earth-9 Philosopher's Stone [Special: Doubles the score of the current hand (one-time use)] Water-3 
+[2026-05-18 19:49:27] GAME START - Player: kaan, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 19:50:33] ROUND 1 START - Target Score: 50
+[2026-05-18 19:50:33] INITIAL HAND: Hand: Transmutation [Special: Swap one card in hand with a random card from deck (doesn't count toward discard limit)] Air-1 Water-5 Water-1 
+[2026-05-18 19:50:47] SPECIAL CARD USED: Transmutation
+[2026-05-18 19:51:00] SPECIAL CARD USED: Elemental Fusion
+[2026-05-18 19:51:05] ROUND 1 RESULT - Score: 110, Target: 50, WON
+[2026-05-18 19:56:37] ROUND 2 START - Target Score: 65
+[2026-05-18 19:56:37] INITIAL HAND: Hand: Water-6 Air-2 Air-5 Fire-4 
+[2026-05-18 19:56:43] ROUND 2 RESULT - Score: 24, Target: 65, LOST
+[2026-05-18 19:56:43] ROUND 3 START - Target Score: 80
+[2026-05-18 19:56:43] INITIAL HAND: Hand: Fire-7 Fire-9 Fire-2 Earth-6 
+[2026-05-18 19:56:53] ROUND 3 RESULT - Score: 42, Target: 80, LOST
+[2026-05-18 20:00:37] ROUND 4 START - Target Score: 95
+[2026-05-18 20:00:37] INITIAL HAND: Hand: Air-9 Earth-2 Fire-6 Fire-8 
+[2026-05-18 20:01:03] ROUND 4 RESULT - Score: 39, Target: 95, LOST
+[2026-05-18 20:01:04] GAME COMPLETE - Player: kaan, Total Score: 215, LOSS
+[2026-05-18 20:01:18] GAME START - Player: kaan, Deck: Element, Difficulty: Easy
+[2026-05-18 20:01:23] ROUND 1 START - Target Score: 40
+[2026-05-18 20:01:23] INITIAL HAND: Hand: Carbon Dioxide-4 Hydrogen-6 Carbon Dioxide-6 Oxygen-1 
+[2026-05-18 20:01:30] ROUND 1 RESULT - Score: 27, Target: 40, LOST
+[2026-05-18 20:01:40] ROUND 2 START - Target Score: 55
+[2026-05-18 20:01:40] INITIAL HAND: Hand: Hydrogen-8 Carbon Dioxide-8 Oxygen-2 Nitrogen-7 
+[2026-05-18 20:01:50] SPECIAL CARD USED: Periodic Boost
+[2026-05-18 20:02:00] ROUND 2 RESULT - Score: 155, Target: 55, WON
+[2026-05-18 20:02:01] ROUND 3 START - Target Score: 70
+[2026-05-18 20:02:01] INITIAL HAND: Hand: Nitrogen-8 Oxygen-7 Oxygen-8 Oxygen-3 
+[2026-05-18 20:02:08] ROUND 3 RESULT - Score: 38, Target: 70, LOST
+[2026-05-18 20:02:09] ROUND 4 START - Target Score: 85
+[2026-05-18 20:02:09] INITIAL HAND: Hand: Nitrogen-4 Nitrogen-3 Nitrogen-5 Carbon Dioxide-3 
+[2026-05-18 20:02:12] DISCARD - Card: Carbon Dioxide-3, Remaining Discards: 5
+[2026-05-18 20:02:15] DISCARD - Card: Hydrogen-3, Remaining Discards: 4
+[2026-05-18 20:02:20] ROUND 4 RESULT - Score: 210, Target: 85, WON
+[2026-05-18 20:02:21] GAME COMPLETE - Player: kaan, Total Score: 430, WIN
+[2026-05-18 20:14:32] LOGIN: kaan
+[2026-05-18 20:14:42] GAME START - Player: kaan, Deck: Element, Difficulty: Easy
+[2026-05-18 20:14:55] ROUND 1 START - Target Score: 40
+[2026-05-18 20:14:55] INITIAL HAND: Hand: Carbon Dioxide-6 Oxygen-2 Hydrogen-1 Nitrogen-9 
+[2026-05-18 20:15:03] ROUND 1 RESULT - Score: 90, Target: 40, WON
+[2026-05-18 20:15:05] ROUND 2 START - Target Score: 55
+[2026-05-18 20:15:05] INITIAL HAND: Hand: Noble Gas [Special: Lock one card in place - it cannot be discarded but its value counts twice for scoring] Oxygen-3 Carbon Dioxide-8 Hydrogen-2 
+[2026-05-18 20:15:20] SPECIAL CARD USED: Noble Gas
+[2026-05-18 20:15:23] ROUND 2 RESULT - Score: 21, Target: 55, LOST
+[2026-05-18 20:15:25] ROUND 3 START - Target Score: 70
+[2026-05-18 20:15:25] INITIAL HAND: Hand: Carbon Dioxide-4 Oxygen-1 Nitrogen-6 Carbon Dioxide-1 
+[2026-05-18 20:15:32] DISCARD - Card: Carbon Dioxide-1, Remaining Discards: 5
+[2026-05-18 20:15:36] DISCARD - Card: Oxygen-1, Remaining Discards: 4
+[2026-05-18 20:15:40] SPECIAL CARD USED: Periodic Boost
+[2026-05-18 20:15:48] ROUND 3 RESULT - Score: 48, Target: 70, LOST
+[2026-05-18 20:15:49] ROUND 4 START - Target Score: 85
+[2026-05-18 20:15:49] INITIAL HAND: Hand: Nitrogen-3 Nitrogen-2 Nitrogen-7 Oxygen-8 
+[2026-05-18 20:15:55] ROUND 4 RESULT - Score: 30, Target: 85, LOST
+[2026-05-18 20:15:57] GAME COMPLETE - Player: kaan, Total Score: 189, LOSS
+[2026-05-18 21:10:28] LOGIN: kerem
+[2026-05-18 21:10:51] GAME START - Player: kerem, Deck: Alchemy, Difficulty: Easy
+[2026-05-18 21:11:01] ROUND 1 START - Target Score: 40
+[2026-05-18 21:11:01] INITIAL HAND: Hand: Earth-6 Earth-5 Earth-1 Air-8 
+[2026-05-18 21:11:42] SPECIAL CARD USED: Elemental Fusion
+[2026-05-18 21:11:45] ROUND 1 RESULT - Score: 200, Target: 40, WON
+[2026-05-18 21:12:16] ROUND 2 START - Target Score: 55
+[2026-05-18 21:12:16] INITIAL HAND: Hand: Air-2 Catalyst [Special: Increases the multiplier of any pair scoring by +1 (x2 becomes x3)] Earth-9 Earth-4 
+[2026-05-18 21:14:19] SPECIAL CARD USED: Catalyst
+[2026-05-18 21:14:21] ROUND 2 RESULT - Score: 41, Target: 55, LOST
+[2026-05-18 21:14:22] ROUND 3 START - Target Score: 70
+[2026-05-18 21:14:22] INITIAL HAND: Hand: Fire-9 Air-4 Water-3 Earth-3 
+[2026-05-18 21:14:42] ROUND 3 RESULT - Score: 95, Target: 70, WON
+[2026-05-18 21:14:52] ROUND 4 START - Target Score: 85
+[2026-05-18 21:14:52] INITIAL HAND: Hand: Air-9 Air-1 Water-7 Fire-1 
+[2026-05-18 21:14:57] DISCARD - Card: Air-1, Remaining Discards: 5
+[2026-05-18 21:15:01] DISCARD - Card: Air-3, Remaining Discards: 4
+[2026-05-18 21:15:03] DISCARD - Card: Fire-1, Remaining Discards: 3
+[2026-05-18 21:15:11] ROUND 4 RESULT - Score: 155, Target: 85, WON
+[2026-05-18 21:15:23] GAME COMPLETE - Player: kerem, Total Score: 491, WIN
+[2026-05-18 21:16:30] GAME START - Player: kerem, Deck: Element, Difficulty: Medium
+[2026-05-18 21:16:50] ROUND 1 START - Target Score: 50
+[2026-05-18 21:16:50] INITIAL HAND: Hand: Oxygen-1 Hydrogen-9 Hydrogen-6 Isotope Decay [Special: Discard your entire hand and draw 4 new cards without using discard limit (one-time)] 
+[2026-05-18 21:17:05] DISCARD - Card: Oxygen-1, Remaining Discards: 5
+[2026-05-18 21:17:19] DISCARD - Card: Nitrogen-6, Remaining Discards: 4
+[2026-05-18 21:17:23] DISCARD - Card: Carbon Dioxide-2, Remaining Discards: 3
+[2026-05-18 21:17:27] DISCARD - Card: Carbon Dioxide-5, Remaining Discards: 2
+[2026-05-18 21:17:48] ROUND 1 RESULT - Score: 9, Target: 50, LOST
+[2026-05-18 21:18:06] ROUND 2 START - Target Score: 65
+[2026-05-18 21:18:06] INITIAL HAND: Hand: Carbon Dioxide-6 Nitrogen-4 Oxygen-3 Oxygen-4 
+[2026-05-18 21:18:17] DISCARD - Card: Oxygen-3, Remaining Discards: 1
+[2026-05-18 21:18:19] DISCARD - Card: Oxygen-4, Remaining Discards: 0
+[2026-05-18 21:18:44] ROUND 2 RESULT - Score: 25, Target: 65, LOST
+[2026-05-18 21:18:46] ROUND 3 START - Target Score: 80
+[2026-05-18 21:18:46] INITIAL HAND: Hand: Nitrogen-1 Carbon Dioxide-3 Oxygen-8 Nitrogen-7 
+[2026-05-18 21:18:56] SPECIAL CARD USED: Electron Bond
+[2026-05-18 21:19:26] ROUND 3 RESULT - Score: 1, Target: 80, LOST
+[2026-05-18 21:19:27] ROUND 4 START - Target Score: 95
+[2026-05-18 21:19:27] INITIAL HAND: Hand: Periodic Boost [Special: Add +2 to the numeric value of all cards in current hand] Nitrogen-8 Oxygen-9 Carbon Dioxide-8 
+[2026-05-18 21:28:53] LOGIN: berat
+[2026-05-18 21:29:02] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-18 21:29:04] ROUND 1 START - Target Score: 50
+[2026-05-18 21:29:04] INITIAL HAND: Hand: Air-9 Earth-3 Water-4 Earth-7 
+[2026-05-18 22:46:57] LOGIN: berat
+[2026-05-18 22:47:15] GAME START - Player: berat, Deck: Element, Difficulty: Medium
+[2026-05-18 22:47:21] ROUND 1 START - Target Score: 50
+[2026-05-18 22:47:21] INITIAL HAND: Hand: Oxygen-1 Oxygen-7 Carbon Dioxide-5 Nitrogen-9 
+[2026-05-18 22:47:38] GAME START - Player: berat, Deck: Quantum, Difficulty: Medium
+[2026-05-18 22:47:41] ROUND 1 START - Target Score: 50
+[2026-05-18 22:47:41] INITIAL HAND: Hand: Gluon-3 Gluon-9 Quark-9 Photon-8 
+[2026-05-18 23:28:49] DISCARD - Card: Gluon-9, Remaining Discards: 5
+[2026-05-18 23:28:49] DISCARD - Card: Quark-9, Remaining Discards: 4
+[2026-05-20 20:46:28] LOGIN: berat
+[2026-05-20 20:46:49] GAME START - Player: berat, Deck: Element, Difficulty: Medium
+[2026-05-20 20:46:55] ROUND 1 START - Target Score: 50
+[2026-05-20 20:46:55] INITIAL HAND: Hand: Hydrogen-9 Hydrogen-3 Oxygen-7 Nitrogen-3 
+[2026-05-20 20:47:08] ROUND 1 RESULT - Score: 34, Target: 50, LOST
+[2026-05-20 20:47:09] ROUND 2 START - Target Score: 65
+[2026-05-20 20:47:09] INITIAL HAND: Hand: Hydrogen-7 Carbon Dioxide-3 Electron Bond [Special: Create a pair between two different card types - they count as a matching pair for scoring] Oxygen-1 
+[2026-05-20 20:47:17] SPECIAL CARD USED: Electron Bond
+[2026-05-20 20:47:19] ROUND 2 RESULT - Score: 21, Target: 65, LOST
+[2026-05-20 20:47:20] ROUND 3 START - Target Score: 80
+[2026-05-20 20:47:20] INITIAL HAND: Hand: Nitrogen-8 Carbon Dioxide-5 Carbon Dioxide-2 Carbon Dioxide-7 
+[2026-05-20 20:47:22] DISCARD - Card: Nitrogen-8, Remaining Discards: 5
+[2026-05-20 20:47:24] DISCARD - Card: Nitrogen-5, Remaining Discards: 4
+[2026-05-20 20:47:26] DISCARD - Card: Oxygen-9, Remaining Discards: 3
+[2026-05-20 20:47:29] DISCARD - Card: Nitrogen-2, Remaining Discards: 2
+[2026-05-20 20:47:35] ROUND 3 RESULT - Score: 34, Target: 80, LOST
+[2026-05-20 20:47:36] ROUND 4 START - Target Score: 95
+[2026-05-20 20:47:36] INITIAL HAND: Hand: Oxygen-3 Oxygen-8 Hydrogen-1 Isotope Decay [Special: Discard your entire hand and draw 4 new cards without using discard limit (one-time)] 
+[2026-05-20 20:47:42] SPECIAL CARD USED: Isotope Decay
+[2026-05-20 20:47:46] ROUND 4 RESULT - Score: 27, Target: 95, LOST
+[2026-05-20 20:47:47] GAME COMPLETE - Player: berat, Total Score: 116, LOSS
+[2026-05-20 22:00:22] LOGIN: berat
+[2026-05-20 22:00:39] GAME START - Player: berat, Deck: Alchemy, Difficulty: Medium
+[2026-05-20 22:00:44] ROUND 1 START - Target Score: 50
+[2026-05-20 22:00:45] INITIAL HAND: Hand: Fire-4 Fire-6 Air-5 Air-4 
+[2026-05-20 22:00:54] ROUND 1 RESULT - Score: 29, Target: 50, LOST
+[2026-05-20 22:00:57] ROUND 2 START - Target Score: 65
+[2026-05-20 22:00:57] INITIAL HAND: Hand: Earth-3 Fire-8 Fire-3 Air-8 
+[2026-05-20 22:01:58] ROUND 2 RESULT - Score: 33, Target: 65, LOST
+[2026-05-20 22:01:58] ROUND 3 START - Target Score: 80
+[2026-05-20 22:01:58] INITIAL HAND: Hand: Earth-9 Fire-5 Air-6 Water-4 
+[2026-05-20 22:02:04] SPECIAL CARD USED: Philosopher's Stone
+[2026-05-20 22:02:10] ROUND 3 RESULT - Score: 240, Target: 80, WON
+[2026-05-20 22:02:11] ROUND 4 START - Target Score: 95
+[2026-05-20 22:02:11] INITIAL HAND: Hand: Fire-9 Air-1 Air-9 Air-7 
+[2026-05-20 22:02:13] DISCARD - Card: Fire-9, Remaining Discards: 5
+[2026-05-20 22:02:15] DISCARD - Card: Earth-1, Remaining Discards: 4
+[2026-05-20 22:02:20] ROUND 4 RESULT - Score: 190, Target: 95, WON
+[2026-05-20 22:02:21] GAME COMPLETE - Player: berat, Total Score: 492, WIN
